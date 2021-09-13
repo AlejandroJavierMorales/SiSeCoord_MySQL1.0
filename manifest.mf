@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.4
+Created-By: 1.8.0_291-b10 (Oracle Corporation)
+Class-Path: lib/mysql-connector-java-5.1.13-bin.jar lib/jcalendar-1.4.
+ jar lib/AbsoluteLayout.jar lib/commons-collections-3.2.1.jar lib/comm
+ ons-digester-2.1.jar lib/commons-logging-1.2.jar lib/groovy-2.4.5.jar
+  lib/itext-pdfa-5.5.4.jar lib/itextpdf-5.5.4.jar lib/jasperreports-6.
+ 0.0.jar imagenes/iconossc.png reportes/seguimiento/rptSeg1y2.jasper reportes/seguimiento/rptSeg3y4.jasper reportes/seguimiento/rptSeg5.jasper reportes/seguimiento/rptSeg6.jasper reportes/seguimiento/rptSeg7.jasper 
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: sisecoord.SiSeCoord
